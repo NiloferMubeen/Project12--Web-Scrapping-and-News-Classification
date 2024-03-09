@@ -19,7 +19,7 @@ The project aims to build a news classification involving several steps, includi
  * The Text data was cleaned by removing the punctuations, special characters and stop words.
  * Then TF-IDF, a vectorization technique was applied to convert words into numbers
 ### 3. Clustering
- * After dropping the label column, k-means clustering was applied to the dataset. The model was evaluated with Silhoutte score.
+ * After dropping the label column, k-means clustering was applied to the dataset. 
 ### 4. Text Classification
 * The data was split into training and testing sets.
 * The Machine learning models like RandomForest Classifier, Linear SVC, Logistic Regression and MultiNomialNB were used to make the classifications. 
